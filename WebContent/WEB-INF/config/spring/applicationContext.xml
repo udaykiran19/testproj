@@ -24,7 +24,7 @@
         <property name="driverClassName" value="com.mysql.jdbc.Driver"> 
         </property> 
         <!-- <property name="url" value="jdbc:mysql://172.16.16.20:3306/grasscrm">  -->
-        <property name="url" value="jdbc:mysql://%MYSQLHOSTIP%:3306/grasscrm"> 
+        <property name="url" value="jdbc:mysql://MYSQLHOSTIP:3306/grasscrm"> 
      <!--    <property name="url" value="jdbc:mysql://localhost:3306/grasscrm">  -->
         </property> 
         <property name="username" value="grasscrmuser"></property> 
